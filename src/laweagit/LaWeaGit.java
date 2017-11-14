@@ -5,6 +5,8 @@
  */
 package laweagit;
 
+import java.util.Scanner;
+
 /**
  *
  * @author zerep08
@@ -15,7 +17,14 @@ public class LaWeaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("La wea del mundo");
+        Scanner sc = new Scanner(System.in);
+        int radio = 0;
+        
+        System.out.println("Ingresa el radio del circulo");
+        radio = sc.nextInt();
+        
+        System.out.println("EL area es " + Math.PI*Math.pow(radio, 2));
+	
     }
     
 }
