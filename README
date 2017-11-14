@@ -7,7 +7,7 @@ en github, acontinuacion se detallan los pasos que se siguieron para la creacion
 repo.
 
 * Crear el repo en git.
-*  Crear el proyecto en netbeans.
+* Crear el proyecto en netbeans.
 * En consola ingresar los comandos de git  :smiling_imp:
 	* git add .
 	* git commit
