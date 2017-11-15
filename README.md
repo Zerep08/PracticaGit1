@@ -1,15 +1,3 @@
-# PracticaGit1
-
-# Entrenamiento en git y calcular el area del circulo  :sunglasses:
-
-**Descripcion**
-
-Este proyecto se creo con la finalidad de aprender a administrar proyectos de software
-en github, acontinuacion se detallan los pasos que se siguieron para la creacion de este
-repo.
-
-* Crear el repo en git.
-* Crear el proyecto en netbeans.
 
  # Entrenamiento en git y calcular el area del circulo  :sunglasses:
 
